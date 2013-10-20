@@ -1,0 +1,44 @@
+EESchema-DOCLIB  Version 2.0  Date: Mon 14 Oct 2013 23:32:06 WST
+#
+$CMP ADS1015
+D 12 Bit 2/4 Channel Differential ADC (I2C)
+K ADC I2C TI
+F http://www.ti.com/lit/ds/symlink/ads1015.pdf
+$ENDCMP
+#
+$CMP ADS1115
+D 16 Bit 2/4 Channel Differential ADC (I2C)
+K ADC I2C TI
+F http://www.ti.com/lit/ds/symlink/ads1115.pdf
+$ENDCMP
+#
+$CMP MCP4706
+D 8-Bit DAC with EEPROM and I2C Interface
+K DAC I2C Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/22272C.pdf
+$ENDCMP
+#
+$CMP MCP4716
+D 10-Bit DAC with EEPROM and I2C Interface
+K DAC I2C Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/22272C.pdf
+$ENDCMP
+#
+$CMP MCP4726
+D 12-Bit DAC with EEPROM and I2C Interface
+K DAC I2C Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/22272C.pdf
+$ENDCMP
+#
+$CMP PCA9632DP1
+D 4-bit I2C LED driver
+K LED I2C PWM NXP
+F http://www.nxp.com/documents/data_sheet/PCA9632.pdf
+$ENDCMP
+#
+$CMP ENCODER
+D Rotary Encoder
+K Rotary Encoder
+$ENDCMP
+#
+#End Doc Library

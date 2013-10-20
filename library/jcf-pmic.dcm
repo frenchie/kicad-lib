@@ -1,0 +1,202 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 12 Oct 2013 18:41:11 WST
+#encoding utf-8
+#
+$CMP ISL21070-06
+D 25μA 0.600 V Voltage Reference
+K Reference
+F http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf
+$ENDCMP
+#
+$CMP ISL21070-20
+D 25μA 2.048 V Voltage Reference
+K Reference
+F http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf
+$ENDCMP
+#
+$CMP ISL21070-25
+D 25μA 2.500 V Voltage Reference
+K Reference
+F http://www.intersil.com/content/dam/Intersil/documents/fn75/fn7599.pdf
+$ENDCMP
+#
+$CMP LM334Z
+D 3 Terminal Adjustible Current Source (TO-92)
+K Current Regulator Source
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm134.pdf
+$ENDCMP
+#
+$CMP LM334M
+D 3 Terminal Adjustible Current Source (SOIC-8)
+K Current Regulator Source
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm134.pdf
+$ENDCMP
+#
+$CMP LM334SM
+D 3 Terminal Adjustible Current Source (SOIC-8)
+K Current Regulator Source
+F http://www.ti.com.cn/cn/lit/ds/symlink/lm134.pdf
+$ENDCMP
+#
+$CMP MCP1700T-1202E/TT
+D 1.2 V LDO Regulator (SOT-23)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-1802E/TT
+D 1.8 V LDO Regulator (SOT-23)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-2502E/TT
+D 2.5 V LDO Regulator (SOT-23)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-2802E/TT
+D 2.8 V LDO Regulator (SOT-23)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-302E/TT
+D 3.0 V LDO Regulator (SOT-23)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-3302E/TT
+D 3.3 V LDO Regulator (SOT-23)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-5002E/TT
+D 5.0 V LDO Regulator (SOT-23)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-1202E/TO
+D 1.2 V LDO Regulator (TO-92)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-1802E/TO
+D 1.8 V LDO Regulator (TO-92)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-2502E/TO
+D 2.5 V LDO Regulator (TO-92)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-2802E/TO
+D 2.8 V LDO Regulator (TO-92)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-302E/TO
+D 3.0 V LDO Regulator (TO-92)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-3302E/TO
+D 3.3 V LDO Regulator (TO-92)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-5002E/TO
+D 5.0 V LDO Regulator (TO-92)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-1202E/MB
+D 1.2 V LDO Regulator (SOT-89)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-1802E/MB
+D 1.8 V LDO Regulator (SOT-89)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-2502E/MB
+D 2.5 V LDO Regulator (SOT-89)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-2802E/MB
+D 2.8 V LDO Regulator (SOT-89)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-302E/MB
+D 3.0 V LDO Regulator (SOT-89)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-3302E/MB
+D 3.3 V LDO Regulator (SOT-89)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP MCP1700T-5002E/MB
+D 5.0 V LDO Regulator (SOT-89)
+K Voltage Regulator LDO Microchip
+F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP TPS60400
+D Unregulated Charge Pump Inverter - Variable Frequency
+K Charge Pump Inverter TI
+F http://www.ti.com/lit/ds/symlink/tps60400.pdf
+$ENDCMP
+#
+$CMP TPS60401
+D Unregulated Charge Pump Inverter - 20kHz
+K Charge Pump Inverter TI
+F http://www.ti.com/lit/ds/symlink/tps60400.pdf
+$ENDCMP
+#
+$CMP TPS60402
+D Unregulated Charge Pump Inverter - 50kHz
+K Charge Pump Inverter TI
+F http://www.ti.com/lit/ds/symlink/tps60400.pdf
+$ENDCMP
+#
+$CMP TPS60403
+D Unregulated Charge Pump Inverter - 250kHz
+K Charge Pump Inverter TI
+F http://www.ti.com/lit/ds/symlink/tps60400.pdf
+$ENDCMP
+#
+$CMP LM2595T
+D 1A Simple Switcher 150kHz Step Down Regulator
+K Switching Regulator TI
+F http://www.ti.com/lit/ds/symlink/tps60400.pdf
+$ENDCMP
+#
+$CMP LM2596T
+D 3A Simple Switcher 150kHz Step Down Regulator
+K Switching Regulator TI
+F http://www.ti.com/lit/ds/symlink/tps60400.pdf
+$ENDCMP
+#
+#End Doc Library
