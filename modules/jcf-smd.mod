@@ -1,0 +1,363 @@
+PCBNEW-LibModule-V1  Sun 20 Oct 2013 17:33:23 WST
+# encoding utf-8
+Units mm
+$INDEX
+DO_214AB
+SOT23_5
+SRR1210
+TQFP32-JCF
+$EndINDEX
+$MODULE DO_214AB
+Po 0 0 0 15 5263A28A 00000000 ~~
+Li DO_214AB
+Sc 0
+AR /51FCABD1
+Op 0 0 0
+At SMD
+T0 0 -3.81 0.8 0.7 0 0.15 N V 21 N "Ref**"
+T1 0 3.81 0.8 0.7 0 0.15 N V 21 N "Val**"
+DS 1.8 -3.11 1.8 3.11 0.15 21
+DS 3.55 -3.11 3.55 -2 0.15 21
+DS 3.55 3.11 3.55 2 0.15 21
+DS -3.55 3.11 3.55 3.11 0.15 21
+DS -3.55 3.11 -3.55 2 0.15 21
+DS -3.55 -3.11 3.55 -3.11 0.15 21
+DS -3.55 -3.11 -3.55 -2 0.15 21
+$PAD
+Sh "1" R 2.5 3.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.45 0
+$EndPAD
+$PAD
+Sh "2" R 2.5 3.3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.45 0
+$EndPAD
+$EndMODULE DO_214AB
+$MODULE SOT23_5
+Po 0 0 0 15 5263A2B0 00000000 ~~
+Li SOT23_5
+Sc 0
+AR /52121079
+Op 0 0 0
+T0 1.99898 0 0.762 0.762 900 0.0762 N V 21 N "Ref**"
+T1 0.0635 0 0.50038 0.50038 0 0.0762 N V 21 N "Val**"
+DS -0.508 0.762 -1.27 0.254 0.127 21
+DS 1.27 0.762 -1.3335 0.762 0.127 21
+DS -1.3335 0.762 -1.3335 -0.762 0.127 21
+DS -1.3335 -0.762 1.27 -0.762 0.127 21
+DS 1.27 -0.762 1.27 0.762 0.127 21
+$PAD
+Sh "5" R 0.70104 1.00076 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.9525 -1.27
+$EndPAD
+$PAD
+Sh "4" R 0.70104 1.00076 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9525 -1.27
+$EndPAD
+$PAD
+Sh "3" R 0.70104 1.00076 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.9525 1.27
+$EndPAD
+$PAD
+Sh "2" R 0.70104 1.00076 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "1" R 0.70104 1.00076 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.9525 1.27
+$EndPAD
+$EndMODULE SOT23_5
+$MODULE SRR1210
+Po 0 0 0 15 5263A2D8 00000000 ~~
+Li SRR1210
+Kw Inductor Panasonic
+Sc 0
+AR /525004F9
+Op 0 0 0
+T0 0 2.032 1.016 0.889 0 0.2032 N V 21 N "Ref**"
+T1 0 -1.77546 1.016 0.889 0 0.2032 N V 21 N "Val**"
+DS -6 -6 6 -6 0.2 21
+DS 6 -6 6 6 0.2 21
+DS -6 6 6 6 0.2 21
+DS -6 6 -6 -6 0.2 21
+$PAD
+Sh "1" T 5.3 2.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -5.05
+$EndPAD
+$PAD
+Sh "2" R 5.3 2.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 5.05
+$EndPAD
+$EndMODULE SRR1210
+$MODULE TQFP32-JCF
+Po 0 0 0 15 5263A331 00000000 ~~
+Li TQFP32-JCF
+Sc 0
+AR /52442887
+Op 0 0 0
+T0 0 -1.27 1.27 1.016 0 0.2032 N V 21 N "Ref**"
+T1 0 1.905 1.27 1.016 0 0.2032 N V 21 N "Val**"
+DS -3.8 -3.2 -3.8 3.8 0.1524 21
+DS -3.2 -3.8 3.8 -3.8 0.1524 21
+DS 3.8 3.8 3.8 -3.8 0.1524 21
+DS -3.8 3.8 3.8 3.8 0.1524 21
+DS -3.8 -3.2 -3.2 -3.8 0.1524 21
+DC -2.83972 -2.86004 -2.43332 -2.60604 0.1524 21
+$PAD
+Sh "8" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 2.8
+$EndPAD
+$PAD
+Sh "7" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 2
+$EndPAD
+$PAD
+Sh "6" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 1.2
+$EndPAD
+$PAD
+Sh "5" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 0.4
+$EndPAD
+$PAD
+Sh "4" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 -0.4
+$EndPAD
+$PAD
+Sh "3" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 -1.2
+$EndPAD
+$PAD
+Sh "2" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 -2
+$EndPAD
+$PAD
+Sh "1" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.8 -2.8
+$EndPAD
+$PAD
+Sh "24" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 -2.8
+$EndPAD
+$PAD
+Sh "17" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 2.8
+$EndPAD
+$PAD
+Sh "18" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 2
+$EndPAD
+$PAD
+Sh "19" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 1.2
+$EndPAD
+$PAD
+Sh "20" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 0.4
+$EndPAD
+$PAD
+Sh "21" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 -0.4
+$EndPAD
+$PAD
+Sh "22" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 -1.2
+$EndPAD
+$PAD
+Sh "23" R 2 0.45 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.8 -2
+$EndPAD
+$PAD
+Sh "32" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 -4.8
+$EndPAD
+$PAD
+Sh "31" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 -4.8
+$EndPAD
+$PAD
+Sh "30" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 -4.8
+$EndPAD
+$PAD
+Sh "29" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 -4.8
+$EndPAD
+$PAD
+Sh "28" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 -4.8
+$EndPAD
+$PAD
+Sh "27" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 -4.8
+$EndPAD
+$PAD
+Sh "26" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 -4.8
+$EndPAD
+$PAD
+Sh "25" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 -4.8
+$EndPAD
+$PAD
+Sh "9" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.8 4.8
+$EndPAD
+$PAD
+Sh "10" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2 4.8
+$EndPAD
+$PAD
+Sh "11" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.2 4.8
+$EndPAD
+$PAD
+Sh "12" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.4 4.8
+$EndPAD
+$PAD
+Sh "13" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.4 4.8
+$EndPAD
+$PAD
+Sh "14" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.2 4.8
+$EndPAD
+$PAD
+Sh "15" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2 4.8
+$EndPAD
+$PAD
+Sh "16" R 0.45 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.8 4.8
+$EndPAD
+$SHAPE3D
+Na "smd/tqfp32.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE TQFP32-JCF
+$EndLIBRARY

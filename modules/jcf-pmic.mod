@@ -1,0 +1,43 @@
+PCBNEW-LibModule-V1  Sun 20 Oct 2013 17:29:19 WST
+# encoding utf-8
+Units mm
+$INDEX
+R-78Exx-0.5
+$EndINDEX
+$MODULE R-78Exx-0.5
+Po 0 0 0 15 5263A26D 00000000 ~~
+Li R-78Exx-0.5
+Cd Recom Switching Regulator LM78xx Replacement
+Kw LM78xx
+Sc 0
+AR /524FAF2A
+Op 0 0 0
+T0 0 8.255 1.524 1.016 0 0.2032 N V 21 N "Ref**"
+T1 0 -3.175 1.524 1.016 0 0.2032 N V 21 N "Val**"
+DS 5.65 -2 5.65 6.5 0.381 21
+DS -5.65 -2 -5.65 6.5 0.381 21
+DS -5.65 6.5 5.65 6.5 0.381 21
+DS 5.65 -2 -5.65 -2 0.381 21
+$PAD
+Sh "2" C 1.778 1.778 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" C 1.778 1.778 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "1" R 1.778 1.778 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$EndMODULE R-78Exx-0.5
+$EndLIBRARY
