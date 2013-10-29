@@ -1,11 +1,11 @@
-PCBNEW-LibModule-V1  Sun 20 Oct 2013 17:29:19 WST
+PCBNEW-LibModule-V1  Tue 29 Oct 2013 17:16:18 WST
 # encoding utf-8
 Units mm
 $INDEX
 R-78Exx-0.5
 $EndINDEX
 $MODULE R-78Exx-0.5
-Po 0 0 0 15 5263A26D 00000000 ~~
+Po 0 0 0 15 526F7CD9 00000000 ~~
 Li R-78Exx-0.5
 Cd Recom Switching Regulator LM78xx Replacement
 Kw LM78xx
@@ -30,14 +30,14 @@ Sh "3" C 1.778 1.778 0 0 0
 Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
-Po 2.54 0
+Po -2.54 0
 $EndPAD
 $PAD
 Sh "1" R 1.778 1.778 0 0 0
 Dr 1.016 0 0
 At STD N 00E0FFFF
 Ne 0 ""
-Po -2.54 0
+Po 2.54 0
 $EndPAD
 $EndMODULE R-78Exx-0.5
 $EndLIBRARY
