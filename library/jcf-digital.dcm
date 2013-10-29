@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sun 20 Oct 2013 17:03:24 WST
+EESchema-DOCLIB  Version 2.0  Date: Tue 29 Oct 2013 22:54:58 WST
 #
 $CMP ADS1015
 D 12 Bit 2/4 Channel Differential ADC (I2C)
@@ -15,6 +15,11 @@ $ENDCMP
 $CMP ENCODER
 D Rotary Encoder
 K Rotary Encoder
+$ENDCMP
+#
+$CMP LTC2633
+D Dual 12-/10-/8-Bit Voltage Output DACs with 10ppm/degC Internal Reference
+K DAC Reference LT Dual
 $ENDCMP
 #
 $CMP MCP4706
