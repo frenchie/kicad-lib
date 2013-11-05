@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 30 Oct 2013 00:43:03 WST
+EESchema-DOCLIB  Version 2.0  Date: Tue 05 Nov 2013 19:14:01 WST
 #
 $CMP ISL21070-06
 D 25μA 0.600 V Voltage Reference
@@ -142,6 +142,14 @@ $CMP MCP1700T-5002E/TT
 D 5.0 V LDO Regulator (SOT-23)
 K Voltage Regulator LDO Microchip
 F http://www.microchip.com/downloads/en/DeviceDoc/20001826C.pdf
+$ENDCMP
+#
+$CMP R-78E3.3-0.5
+D 78xx Pin Compatible 3V3 0.5A Switching Regulator
+$ENDCMP
+#
+$CMP R-78E5.0-0.5
+D 78xx Pin Compatible 5V 0.5A Switching Regulator
 $ENDCMP
 #
 $CMP TPS60400
