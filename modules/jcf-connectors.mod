@@ -1,11 +1,28 @@
-PCBNEW-LibModule-V1  Sun 20 Oct 2013 17:28:34 WST
+PCBNEW-LibModule-V1  Sat 01 Mar 2014 18:18:53 WST
 # encoding utf-8
 Units mm
 $INDEX
+BananaNoTab
 PIN_ARRAY_16x1
 PIN_ARRAY_7x2
 PJ-202A
 $EndINDEX
+$MODULE BananaNoTab
+Po 0 0 0 15 5311B3DC 00000000 ~~
+Li BananaNoTab
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -7.62 1 1 0 0.15 N V 21 N "BananaNoTab"
+T1 0 7.62 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "1" C 12 12 0 0 0
+Dr 6 0 0
+At STD N 00400001
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE BananaNoTab
 $MODULE PIN_ARRAY_16x1
 Po 0 0 0 15 5263A1EE 00000000 ~~
 Li PIN_ARRAY_16x1
